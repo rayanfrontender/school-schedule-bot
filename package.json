@@ -1,0 +1,13 @@
+{
+    "name": "school-schedule-bot",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1",
+        "grammy": "^1.20.0",
+        "telegraf": "^4.16.3"
+    }
+}
